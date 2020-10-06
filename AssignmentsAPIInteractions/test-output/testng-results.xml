@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4114" started-at="2020-10-06T09:37:08Z" finished-at="2020-10-06T09:37:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4114" started-at="2020-10-06T09:37:08Z" finished-at="2020-10-06T09:37:13Z">
+      <class name="com.demo.tests.APIDemoTest">
+        <test-method status="PASS" signature="demoRestAssured()[pri:0, instance:com.demo.tests.APIDemoTest@4c70fda8]" name="demoRestAssured" duration-ms="4095" started-at="2020-10-06T15:07:08Z" finished-at="2020-10-06T15:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoRestAssured -->
+      </class> <!-- com.demo.tests.APIDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
